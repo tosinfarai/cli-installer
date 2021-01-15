@@ -1,7 +1,7 @@
 # sca-cloud-school-application
 ## Prerequisites
 ### For Linux
-- Ubuntu distro
+- Ubuntu flavor
 ### For Windows
 - [Scoop](https://scoop.sh/) package manager
 ### For Mac
